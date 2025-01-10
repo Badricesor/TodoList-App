@@ -1,7 +1,7 @@
 {
   "name": "app",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "homepage": "https://github.com/Badricesor/TodoList-App.git",
   "dependencies": {
     "cra-template": "1.2.0",
