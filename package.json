@@ -2,7 +2,7 @@
   "name": "app",
   "version": "0.1.0",
   "private": true,
-      "homepage": "https://github.com/Badricesor/TodoList-App.git",
+  "homepage": "https://github.com/Badricesor/TodoList-App.git",
   "dependencies": {
     "cra-template": "1.2.0",
     "react": "^19.0.0",
