@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Badricesor/TodoList-App.git/static/css/main.a2f0d85d.css",
+    "main.js": "/Badricesor/TodoList-App.git/static/js/main.3753a47a.js",
+    "static/js/488.103417aa.chunk.js": "/Badricesor/TodoList-App.git/static/js/488.103417aa.chunk.js",
+    "index.html": "/Badricesor/TodoList-App.git/index.html",
+    "main.a2f0d85d.css.map": "/Badricesor/TodoList-App.git/static/css/main.a2f0d85d.css.map",
+    "main.3753a47a.js.map": "/Badricesor/TodoList-App.git/static/js/main.3753a47a.js.map",
+    "488.103417aa.chunk.js.map": "/Badricesor/TodoList-App.git/static/js/488.103417aa.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a2f0d85d.css",
+    "static/js/main.3753a47a.js"
+  ]
+}
